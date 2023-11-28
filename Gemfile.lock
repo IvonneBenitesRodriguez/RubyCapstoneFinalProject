@@ -46,6 +46,7 @@ PLATFORMS
   x86_64-darwin-23
 
 DEPENDENCIES
+  json (~> 2.6)
   rspec
   rubocop (>= 1.0, < 2.0)
 
