@@ -66,7 +66,7 @@ Clone this repository to your desired folder:
 - 🌷LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
   
     
-👤 *Gilbert  Dushimimana Happi*
+👤 *Gilbert Happi*
 
 - Github: [Gilbert Happi Dushimimana](https://github.com/gilberthappi)
 - X: [Gilbert Happi Dushimimana](https://twitter.com/DushimimanaGil3)
