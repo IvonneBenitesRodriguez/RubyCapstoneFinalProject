@@ -2,7 +2,7 @@ require_relative 'classes/game'
 require_relative 'classes/author'
 
 class App
-  attr_accessor :game, :author
+  attr_accessor :games, :authors
 
   def initialize
     @games = []
