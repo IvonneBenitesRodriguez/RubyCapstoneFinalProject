@@ -43,7 +43,7 @@ GEM
     unicode-display_width (2.5.0)
 
 PLATFORMS
-  x86_64-darwin-23
+  x64-mingw-ucrt
 
 DEPENDENCIES
   json (~> 2.6)
@@ -51,4 +51,4 @@ DEPENDENCIES
   rubocop (>= 1.0, < 2.0)
 
 BUNDLED WITH
-   2.4.22
+   2.4.10
