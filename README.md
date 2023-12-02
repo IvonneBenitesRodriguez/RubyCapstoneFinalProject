@@ -8,6 +8,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [🌸🌷 Key Features ](#-key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [🌷Setup](#setup)
   - [🌷 Author ](#-author-)
@@ -20,7 +21,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [RubyCapstoneFinalProject] <a name="about-project"></a>
-*RubyCapstoneFinalProject* is a project based on Ruby programming language, this project is about a **Catalog to show things in a console app** where users can manage collections of own items, including books, music albums, movies, and games. Users can track several details about the mentioned items and enjoy of this app functionalities like adding new items, listing items and more.<br/>
+*RubyCapstoneFinalProject* is a project based on Ruby programming language, this project is about a **Catalog to show things in a console app** where users can manage collections of own items, including books, music albums, movies, and games. Users can track several details about the mentioned items and enjoy of this app functionalities like adding new items, listing items and more. This project implements **OOP Principles**.<br/>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,6 +39,12 @@
 - **[Add new games]**
 - **[Add new music albums]**
 - **[List all items added]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Video Presentation Link](https://drive.google.com/file/d/1h5R-_EZiN1wqvJ5DhnEHGD5NOdGccGfx/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
